@@ -1,0 +1,9 @@
+Roll a runic die (d24) and returns the result, orientation and meaning
+
+Must also be able to roll standard dice. 4,6,8,10,12,20,100 in a drop down menu.
+
+Must be able to take input for a chosen dice size and return a random number. d3,7,30, etc
+
+Must be able to save rolls with a name, "Fireball" 8d6
+
+Must have a UI
